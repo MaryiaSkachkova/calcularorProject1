@@ -11,9 +11,9 @@ public class Calculator {
         return difference;
     }
 
-    public static int calcMultiply(int num1, int num2) {
-        int multyply = num1 * num2;
-        return multyply;
-    }
+    public static int calcProduct(int num1, int num2) {
+        int product = num1 * num2;
+        return product;
 
+    }
 }
