@@ -11,6 +11,5 @@ public class _Main {
         ResultWriterService.printResult(5, 7, result1, "sum");
         ResultWriterService.printResult(8, 4, result2, "difference");
         ResultWriterService.printResult(5, 3, result3, "product");
-
     }
 }
